@@ -1,0 +1,14 @@
+[[main]]
+name = "Recipes"
+pageRef = "recipes"
+identifier = "YeZc2LByZv"
+weight = 9_999
+
+[[main]]
+name = "Bento"
+pageRef = "bento"
+identifier = "i2qCyALnzD"
+weight = 9_999
+
+[[footer]]
+none = "none"
