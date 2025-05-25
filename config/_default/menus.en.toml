@@ -2,13 +2,19 @@
 name = "Recipes"
 pageRef = "recipes"
 identifier = "YeZc2LByZv"
-weight = 9_999
+weight = 2
 
 [[main]]
 name = "Bento"
 pageRef = "bento"
 identifier = "i2qCyALnzD"
-weight = 9_999
+weight = 1
+
+[[main]]
+name = "Ingredients"
+pageRef = "ingredients"
+identifier = "RLyfziShZF"
+weight = 3
 
 [[footer]]
 none = "none"
