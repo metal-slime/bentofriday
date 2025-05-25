@@ -1,8 +1,8 @@
 ---
-title: "Inside Out Eggroll Salad"
+title: "Mayo Salads"
 date: 2025-05-25
 draft: false
-description: "a description"
+description: "Tuna mayo, salmon mayo, chicken mayo, all are delicious salads for sandwiches or onigiri"
 tags: ["protein", "mayo", "pickles"]
 ---
 

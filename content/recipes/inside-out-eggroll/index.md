@@ -2,7 +2,7 @@
 title: "Inside Out Eggroll Salad"
 date: 2025-05-25
 draft: false
-description: "a description"
+description: "Take the filling for an eggroll and serve it without the wrapper"
 tags: ["main", "side", "cabbage"]
 ---
 
