@@ -16,6 +16,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 defaultBackgroundImage = "counter_1.jpg"
+mainSections = ['bento']
 
 [header]
 layout = "basic"
@@ -30,7 +31,7 @@ showScrollToTop = true
 [homepage]
 layout = "background"
 showRecent = true
-showRecentItems = "3"
+showRecentItems = "5"
 showMoreLink = false
 showMoreLinkDest = "/bento/"
 cardView = false
