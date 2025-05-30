@@ -3,7 +3,7 @@ title: "Gyudon Bento"
 date: 2025-05-09
 draft: false
 description: "Gyudon over white rice with tamagoyaki, fresh fruit, and broccoli stir fry"
-tags: ["donburi", "broccoli", "beef", "rice"]
+tags: ["丼 (donburi)", "broccoli", "beef", "rice"]
 ---
 
 
