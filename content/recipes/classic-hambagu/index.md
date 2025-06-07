@@ -8,7 +8,7 @@ tags: ["protein", "beef", "pork", "洋食 (yoshoku)"]
 
 # Classic Hambagu
 
-Are you a fan of meatloaf but regret that it comes in a whole loaf? Well, have I got a food for you. The classic Japanese hambagu is a mix of ground meats, onion, bread crumbs, and spices. There are many recipes but I've pretty much come up with my own that I do over and over. There are a variety of sauces that can be made for it, Japanese style, meat loaf style, demi-glace, etc., but for this bento, I went with the one from [Just One Cookbook](https://www.justonecookbook.com/hamburger-steak-hambagu/). As a bonus, definitely read her steps for making the hambagu, has some important tips/
+Are you a fan of meatloaf but regret that it comes in a whole loaf? Well, have I got a food for you. The classic Japanese hambagu is a mix of ground meats, onion, bread crumbs, and spices. There are many recipes but I've pretty much come up with my own that I do over and over. There are a variety of sauces that can be made for it, Japanese style, meat loaf style, demi-glace, etc., but for this bento, I went with the one from [Just One Cookbook](https://www.justonecookbook.com/hamburger-steak-hambagu/). As a bonus, definitely read her steps for making the hambagu, has some important tips.
 
 ### Ingredients
 
