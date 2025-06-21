@@ -1,6 +1,6 @@
 ---
 title: "Grandma's Mac and Cheese"
-date: 2025-06-07
+date: 2025-06-06
 draft: false
 description: "A mac and cheese recipe from the era of corporate recipes"
 tags: ["pasta", "cheese", "butter", "milk"]

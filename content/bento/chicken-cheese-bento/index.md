@@ -1,6 +1,6 @@
 ---
 title: "Chicken and Cheese Bento"
-date: 2025-06-07
+date: 2025-06-06
 draft: false
 description: "Japanese karaage with Grandma's mac and cheese and salad"
 tags: ["chicken", "pasta", "cheese", "fried", "salad"]
