@@ -6,7 +6,7 @@ description: "A spaghetti (or similar) pasta bake "
 tags: ["sausage", "pasta", "cheese"]
 ---
 
-# Tonkatsu
+# Spaghetti Casserole
 
 Pasta baked with sausage, sauce, and cheese on top. I don't know where my mom stumbled upon this recipe but I've been making it ever since, tweaking it until I got to this version.
 

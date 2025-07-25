@@ -3,7 +3,7 @@ title: "Spaghetti Casserole Bento"
 date: 2025-07-18
 draft: false
 description: "Happy Bento Friday! Today’s bento is a pasta bake casserole bento. Spaghetti casserole, aka baked spaghetti, with pan roasted broccoli and a mix of raspberries and blackberries. いただきます。"
-tags: ["sausage", "pasta", "cheese", "berries"]
+tags: ["sausage", "pasta", "cheese", "berries", "broccoli"]
 ---
 
 
@@ -19,6 +19,5 @@ Put some of your preferred cooking fat in a pan and melt it down (I used wagyu t
 
 ### Raspberries and Blackberries
 Arrange your fruit in a manner that looks good to you. It doesn't have to be fancy.
-
 
 
