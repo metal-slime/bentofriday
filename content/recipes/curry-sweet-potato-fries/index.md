@@ -21,7 +21,7 @@ Who doesn't like a good sweet potato fry? This is one of the few things Bob Belc
 
 ### Steps
 
-1. Preheat your oven to 450 F (I like to use a little convection oven with burners on both sides)
+1. Preheat your oven to 450 F (I like to use a little convection oven with burners on both the top and bottom)
 2. Slice your sweet potatoes to desired lengh. Then cut sweet potato in half, and then into quarters.
 3. Slice wedges out of the quarters (be careful not to cut yourself).
 4. Put the wedges in a bowl and drizzle with olive oil. Toss in the olive oil to evenly distribute it.
